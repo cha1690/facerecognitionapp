@@ -1,0 +1,20 @@
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: monospace, sans-serif;
+}
+
+.particles{
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+}
